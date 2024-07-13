@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 
-from youtubetomp3 import youtube_to_mp3
+from MusicHandler import youtube_to_mp3
 
 class Convert(tk.Tk):
     def __init__(self):
